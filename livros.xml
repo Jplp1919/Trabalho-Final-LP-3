@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Livros>
+    <Livro>
+        <Id>1</Id>
+        <Titulo>It: A Coisa</Titulo>
+        <Genero>Terror</Genero>
+        <Isbn>978-1501142970</Isbn>
+        <Preco>18.0</Preco>
+        <IdEscritor>10</IdEscritor>
+    </Livro>
+    <Livro>
+        <Id>2</Id>
+        <Titulo>Carrie</Titulo>
+        <Genero>Terror</Genero>
+        <Isbn>978-0307743664</Isbn>
+        <Preco>18.0</Preco>
+        <IdEscritor>10</IdEscritor>
+    </Livro>
+    <Livro>
+        <Id>3</Id>
+        <Titulo>Cujo</Titulo>
+        <Genero>Terror</Genero>
+        <Isbn>978-0-670-45193-7</Isbn>
+        <Preco>25.0</Preco>
+        <IdEscritor>10</IdEscritor>
+    </Livro>
+    <Livro>
+        <Id>4</Id>
+        <Titulo>As Aventuras Sherlock Holmes</Titulo>
+        <Genero>Misterio</Genero>
+        <Isbn>978-1-4803-3149-5</Isbn>
+        <Preco>15.0</Preco>
+        <IdEscritor>15</IdEscritor>
+    </Livro>
+    <Livro>
+        <Id>5</Id>
+        <Titulo>A Farwell to Arms</Titulo>
+        <Genero>Realismo</Genero>
+        <Isbn>9780099910107</Isbn>
+        <Preco>15.0</Preco>
+        <IdEscritor>1</IdEscritor>
+    </Livro>
+    <Livro>
+        <Id>6</Id>
+        <Titulo>The Call of Cthulhu</Titulo>
+        <Genero>Terror</Genero>
+        <Isbn>9780933635586</Isbn>
+        <Preco>10.0</Preco>
+        <IdEscritor>2</IdEscritor>
+    </Livro>
+</Livros>

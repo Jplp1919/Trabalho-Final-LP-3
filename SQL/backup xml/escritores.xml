@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Escritores>
+    <Escritor>
+        <Id>1</Id>
+        <Nome>Ernest</Nome>
+        <Sobrenome>Hemingway</Sobrenome>
+    </Escritor>
+    <Escritor>
+        <Id>2</Id>
+        <Nome>H.P.</Nome>
+        <Sobrenome>Lovecraft</Sobrenome>
+    </Escritor>
+    <Escritor>
+        <Id>5</Id>
+        <Nome>Paulo</Nome>
+        <Sobrenome>Coelho</Sobrenome>
+    </Escritor>
+    <Escritor>
+        <Id>10</Id>
+        <Nome>Stephen</Nome>
+        <Sobrenome>King</Sobrenome>
+    </Escritor>
+    <Escritor>
+        <Id>15</Id>
+        <Nome>Arthur Conan</Nome>
+        <Sobrenome>Doyle</Sobrenome>
+    </Escritor>
+</Escritores>

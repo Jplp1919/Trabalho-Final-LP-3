@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Editoras>
+    <Editora>
+        <Id>1</Id>
+        <Nome>Panini</Nome>
+    </Editora>
+    <Editora>
+        <Id>2</Id>
+        <Nome>L&amp;PM</Nome>
+    </Editora>
+    <Editora>
+        <Id>3</Id>
+        <Nome>Gallery Books</Nome>
+    </Editora>
+    <Editora>
+        <Id>4</Id>
+        <Nome>Daw Books</Nome>
+    </Editora>
+</Editoras>
